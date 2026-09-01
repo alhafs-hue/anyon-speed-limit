@@ -54,9 +54,7 @@ Please cite the paper and this archive:
 > M. F. Marashdeh, *Anyon braiding at the speed limit* (2026).
 >
 > M. F. Marashdeh, *Verification code for "Anyon braiding at the speed limit"*,
-> Zenodo, DOI 10.5281/zenodo.XXXXXXX (2026).
-
-Replace the DOI once the Zenodo release is minted.
+> version 1.0.0, Zenodo (2026), DOI 10.5281/zenodo.22238459.
 
 ## License
 
