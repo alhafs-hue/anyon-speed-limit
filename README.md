@@ -1,6 +1,6 @@
 # Verification code for *Anyon braiding at the speed limit*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22238459.svg)](https://doi.org/10.5281/zenodo.22238459)
 
 Mohammad F. Marashdeh — Department of Mathematics, Mutah University, Al-Karak, Jordan
 
