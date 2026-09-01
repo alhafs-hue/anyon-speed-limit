@@ -1,0 +1,12 @@
+{
+  "title": "Verification code for: Anyon braiding at the speed limit",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Marashdeh, Mohammad F.",
+     "affiliation": "Department of Mathematics, Mutah University, Al-Karak, Jordan"}
+  ],
+  "description": "Scripts reproducing every computational claim in the paper \"Anyon braiding at the speed limit\". Run <code>python3 run_all.py</code> to reproduce all results; each script maps to a numbered result and prints PASS/FAIL per claim.",
+  "keywords": ["anyons", "braid groups", "unitary designs", "frame potential",
+               "Temperley-Lieb algebra", "topological quantum computation"]
+}

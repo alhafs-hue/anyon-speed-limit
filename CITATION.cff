@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Verification code for: Anyon braiding at the speed limit"
+message: "If you use this software, please cite both the software and the paper."
+type: software
+authors:
+  - family-names: Marashdeh
+    given-names: Mohammad F.
+    affiliation: "Department of Mathematics, Mutah University, Al-Karak, Jordan"
+    email: marashdeh@mutah.edu.jo
+license: MIT
+repository-code: "https://github.com/alhafs-hue/anyon-speed-limit"
+abstract: >-
+  Scripts reproducing every computational claim in "Anyon braiding at the speed
+  limit": the closed-form four-strand second-moment spectrum, the two-generator
+  bound on a qubit, the exact design orders of the finite braid images, the
+  crossing counts, and the exact n = 6 Ising spectrum.
+keywords:
+  - anyons
+  - braid groups
+  - unitary designs
+  - frame potential
+  - Temperley-Lieb algebra
+  - topological quantum computation
