@@ -8,6 +8,9 @@ authors:
     affiliation: "Department of Mathematics, Mutah University, Al-Karak, Jordan"
     email: marashdeh@mutah.edu.jo
 license: MIT
+version: 1.0.0
+doi: 10.5281/zenodo.22238459
+date-released: 2026-09-01
 repository-code: "https://github.com/alhafs-hue/anyon-speed-limit"
 abstract: >-
   Scripts reproducing every computational claim in "Anyon braiding at the speed
